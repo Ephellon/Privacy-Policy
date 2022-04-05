@@ -1,5 +1,5 @@
 # Privacy Policy
-> Synopsis &mdash; Your data will not be sold nor transferred from your local machine without a clear warning
+> Synopsis &mdash; Your data will not be sold, or transferred from your local machine without a clear warning.
 
 ## Credentials
 > Your credentials will never be shared with outside sources without express permission (i.e. a prompt will appear).
